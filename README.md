@@ -1,1 +1,1 @@
-# Electric-Speed-Controller-ESC-
+# Electric Speed Controller (ESC)
